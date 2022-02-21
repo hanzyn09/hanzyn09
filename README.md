@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanzyn09
-- 👀 I’m interested in WEB-Backend and Fintech !!!
-- 🌱 I’m currently learning Spring.
+- 👀 I’m interested in WEB-Backend and Fin-tech !!!
+- 🌱 I’m currently learning x-platform.
 - 💞️ I’m looking to collaborate on making website.
 - 📫 How to reach me : You can mail to ysurkkr12@naver.com
 
