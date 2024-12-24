@@ -7,4 +7,7 @@
 <!---
 hanzyn09/hanzyn09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+https://blog.naver.com/yangyang2e_
+https://velog.io/@niniji/posts
 --->
