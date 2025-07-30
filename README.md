@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: **Spring Boot Backend Project**  
 - 🌱 Learning: **Google Cloud Platform (GCP)**, **DevOps**, **Kubernetes**  
-- 🧠 Interested in: **System Design**, , **Backend Development**, **Infra Architecture**  
+- 🧠 Interested in: **System Design**, **Backend Development**, **Infra Architecture**  
 - 📫 How to reach me: [hanjin_yang@naver.com](mailto:hanjin_yang@naver.com)  
 - 📝 Blog: [https://velog.io/@niniji/posts](https://velog.io/@niniji/posts)
 
@@ -16,14 +16,36 @@
 
 ### 🛠 Tech Stack
 
-<p align="left">
+#### 💬 Languages
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+#### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+#### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NAVER_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+#### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
 ---
 
 ### 📊 GitHub Stats
