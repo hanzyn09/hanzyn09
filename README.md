@@ -48,6 +48,14 @@
 </p>
 ---
 
+### 📚 Certifications (Official)
+
+- Linux Master Level 2 (한국정보통신진흥협회)
+- NAVER Cloud Platform (NCP) Certified
+- Engineer Information Processing (한국산업인력공단)
+- SQL Developer (SQLD, 한국데이터산업진흥원)
+- MOS Master (Microsoft)
+---
 ### 📊 GitHub Stats
 
 <p align="left">
