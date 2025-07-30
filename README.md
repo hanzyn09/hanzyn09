@@ -1,13 +1,36 @@
-- 👋 Hi, I’m @hanzyn09
-- 👀 I’m interested in WEB-Backend and Fin-tech !!!
-- 🌱 I’m currently learning cloud Native.
-- 💞️ I’m looking to collaborate on making website.
-- 📫 How to reach me : You can mail to hanjin_yang@naver.com
 
-<!---
-hanzyn09/hanzyn09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<h1 align="center">Hi 👋, I'm Hanjin Yang.</h1>
+<h3 align="center">🌱 Backend Developer | ☁️ Cloud Enthusiast | 🛠 Always Learning</h3>
 
-https://blog.naver.com/yangyang2e_
-https://velog.io/@niniji/posts
---->
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on: **Spring Boot Backend Project**  
+- 🌱 Learning: **Google Cloud Platform (GCP)**, **DevOps**, **Kubernetes**  
+- 🧠 Interested in: **System Design**, , **Backend Development**, **Infra Architecture**  
+- 📫 How to reach me: [hanjin_yang@naver.com](mailto:hanjin_yang@naver.com)  
+- 📝 Blog: [https://velog.io/@niniji/posts](https://velog.io/@niniji/posts)
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanzyn09&show_icons=true&theme=default" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzyn09&layout=compact&theme=default" height="150px"/>
+</p>
+
+---
